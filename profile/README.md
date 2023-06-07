@@ -14,6 +14,10 @@ Estimate: 1 point = 4 hour
 - Crawl Post from url and call API create Post raw
   - [API] add endpoint create post raw
   - [CRAWL] setup file get info newspaper from url and call api create Post raw
+- enhance crawl Event with RSS --> user crawl-rss
+  - dựa vào dữ liệu fovi để tạo tập test
+  - dựa vào từ khóa trong file plan excel a Chức đã note
+  - thêm từ khóa trong mongodb vào collection url
 
 ### release/1.2.5 (18/06/2023)
 - [UI-Admin-Dashboard] enhance data statistic by current user login
