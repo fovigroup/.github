@@ -11,7 +11,7 @@ Estimate: 1 point = 4 hour
 - [x] [API] enhance data statistic by current user login
 - [ ] [UI-Admin-Dashboard] show chart statistic access /post/:slug group by source
 - [ ] [API] get list all user
-- [ ] [UI-Admin_Event] filter by author
+- [ ] [UI-Admin-Event] filter by author
 
 ### release/1.2.4 (11/06/2023)
 - UI Admin enhance
