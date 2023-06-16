@@ -7,9 +7,11 @@ Estimate: 1 point = 4 hour
 - Design: [link](https://docs.google.com/spreadsheets/d/1aIMU-CQ_nd0S6hfSEEX0RGQFOOaYUzUGl0JYXaVeNqg/edit?usp=sharing)
 
 ### release/1.2.5 (18/06/2023)
-- [ ] [UI-Admin-Dashboard] disable chart statistic dashboard with rule COLLECTOR
-- [ ] [API] enhance data statistic by current user login
+- [x] [UI-Admin-Dashboard] disable chart statistic dashboard with rule COLLECTOR
+- [x] [API] enhance data statistic by current user login
 - [ ] [UI-Admin-Dashboard] show chart statistic access /post/:slug group by source
+- [ ] [API] get list all user
+- [ ] [UI-Admin_Event] filter by author
 
 ### release/1.2.4 (11/06/2023)
 - UI Admin enhance
