@@ -12,6 +12,7 @@ Estimate: 1 point = 4 hour
 - [ ] [UI-Admin-Dashboard] show chart statistic access /post/:slug group by source
 - [ ] [API] get list all user
 - [ ] [UI-Admin-Event] filter by author
+- [ ] [UI-Admin-Event] add button publish Event when edit with role Admin
 
 ### release/1.2.4 (11/06/2023)
 - UI Admin enhance
