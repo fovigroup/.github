@@ -9,10 +9,10 @@ Estimate: 1 point = 4 hour
 ### release/1.2.5 (18/06/2023)
 - [x] [UI-Admin-Dashboard] disable chart statistic dashboard with rule COLLECTOR
 - [x] [API] enhance data statistic by current user login
-- [ ] [UI-Admin-Dashboard] show chart statistic access /post/:slug group by source
-- [ ] [API] get list all user
-- [ ] [UI-Admin-Event] filter by author
-- [ ] [UI-Admin-Event] add button publish Event when edit with role Admin
+- [x] [#8](https://github.com/fovigroup/fovi-admin-view/issues/8) [UI-Admin-Dashboard] show chart statistic access /post/:slug group by source
+- [x] [#207](https://github.com/fovigroup/fovi-server/issues/207) [API] get list all user
+- [x] [#15](https://github.com/fovigroup/fovi-admin-view/issues/15) [UI-Admin-Event] filter by author
+- [x] [#16](https://github.com/fovigroup/fovi-admin-view/issues/16) [UI-Admin-Event] add button publish Event when edit with role Admin
 
 ### release/1.2.4 (11/06/2023)
 - UI Admin enhance
