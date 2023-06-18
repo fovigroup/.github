@@ -13,6 +13,7 @@ Estimate: 1 point = 4 hour
 - [x] [#207](https://github.com/fovigroup/fovi-server/issues/207) [API] get list all user
 - [x] [#15](https://github.com/fovigroup/fovi-admin-view/issues/15) [UI-Admin-Event] filter by author
 - [x] [#16](https://github.com/fovigroup/fovi-admin-view/issues/16) [UI-Admin-Event] add button publish Event when edit with role Admin
+- [x] [UI-Auth] verify token expired
 
 ### release/1.2.4 (11/06/2023)
 - UI Admin enhance
