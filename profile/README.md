@@ -6,6 +6,14 @@ Estimate: 1 point = 4 hour
 - Folder Drive: [link](https://drive.google.com/drive/folders/1TPaqLsaAXfsHXttfWQJ3n4MC6U-Uzkr4?usp=sharing) 
 - Design: [link](https://docs.google.com/spreadsheets/d/1aIMU-CQ_nd0S6hfSEEX0RGQFOOaYUzUGl0JYXaVeNqg/edit?usp=sharing)
 
+### release/1.2.7 (25/06/2023)
+- [ ] [API] add logic refresh token
+- [ ] [UI-Auth] implement refresh token when access token expried
+
+### release/1.2.6 (18/06/2023)
+- [API] Hotfix some bug
+- [UI-Admin] Hotfix some bug
+
 ### release/1.2.5 (18/06/2023)
 - [x] [UI-Admin-Dashboard] disable chart statistic dashboard with rule COLLECTOR
 - [x] [API] enhance data statistic by current user login
@@ -30,5 +38,6 @@ Estimate: 1 point = 4 hour
   - dựa vào dữ liệu fovi để tạo tập test
   - dựa vào từ khóa trong file plan excel a Chức đã note
   - thêm từ khóa trong mongodb vào collection url
+- khi chỉnh sửa Event và submitted, khi reload page cần active, scroll đến event đó
 
 https://stackedit.io/app#
