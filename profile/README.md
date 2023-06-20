@@ -13,6 +13,7 @@ Estimate: 1 point = 4 hour
 ### release/1.2.6 (18/06/2023)
 - [API] Hotfix some bug
 - [UI-Admin] Hotfix some bug
+- [API] Hotfix query image
 
 ### release/1.2.5 (18/06/2023)
 - [x] [UI-Admin-Dashboard] disable chart statistic dashboard with rule COLLECTOR
